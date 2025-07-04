@@ -11,4 +11,15 @@ header{
 border-bottom:solid 2px #A020F0;
  magin:20px;
  font-size:32px;
-color:#A020F0;}
+color:#A020F0;
+}
+
+section{
+
+    padding: bottom 80px;
+    padding: top 80px;
+    background:#A020F0;
+    display:flex;
+    justify-content:center;
+
+}
