@@ -1,6 +1,14 @@
 body{
 
-    color: #800000;
-    background-color: #A020F0;
+ color: #800000;
+ background-color: #A020F0;
+magrin:0px;
+    magin-bottom:100px;
     
 }
+
+header{
+border-bottom:solid 2px #A020F0;
+ magin:20px;
+ font-size:32px;
+color:#A020F0;}
